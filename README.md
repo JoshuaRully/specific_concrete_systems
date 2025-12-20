@@ -1,5 +1,5 @@
 # Specific Concrete Systems
-Combining mathematical proofs, temporal logic of actions, and program implementation.
+Combining mathematical proofs, temporal logic of actions, and program implementation (essentially mission-critical system design and implementation).
 
 ## Overview
 This repository aims to document the process of modelling real-world problems through Mathematical Proofs, Temporal Logic of Actions, and implementing the generated specifications with various programming languages. The breadth and depth of the material have not been determined yet.
